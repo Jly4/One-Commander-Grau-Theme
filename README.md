@@ -1,7 +1,8 @@
 <h1 align = "center">One-Commander-Gray-Theme</h1>
 
-<img width="1920" alt="OneCommander_dzYneFHaAR" src="https://github.com/Jly4/One-Commander-Gray-Theme/assets/65804380/78177e28-30e2-4172-b8f3-aec8d93e38bc">
-<img width="1920" alt="OneCommander_BOlQULFuyE" src="https://github.com/Jly4/One-Commander-Gray-Theme/assets/65804380/7e9b90b6-35e6-4d56-b876-5cc4b703897d">
+<img width="753" alt="OneCommander_8GLTfGPZFB" src="https://github.com/Jly4/One-Commander-Gray-Theme/assets/65804380/7498c051-4678-45c6-a5bf-7a30c26708eb">
+<img width="753" alt="OneCommander_E5s5BosJJd" src="https://github.com/Jly4/One-Commander-Gray-Theme/assets/65804380/772e069e-1b1c-483d-bc51-51983ffd153d">
+
 
 
 A theme for [one commander](http://www.onecommander.com) app.
@@ -29,6 +30,20 @@ Based on this [theme](https://github.com/Abod1960/One-Commander-Dev-Theme) color
 
 - copy the *png* file in "MainFolderIcon" folder.
 - paste in **OneCommander"folder"\Resources\MainFolderIcon**
+
+---
+### For the change File View
+old view:
+
+<img width="444" alt="OneCommander_Default_old" src="https://github.com/Jly4/One-Commander-Gray-Theme/assets/65804380/49e6f07f-fa97-4379-beff-d671ddf6d28e">
+
+New:
+
+<img width="444" alt="OneCommander_Default" src="https://github.com/Jly4/One-Commander-Gray-Theme/assets/65804380/c510a5ea-be8a-4f1a-9e41-f2133224b06e">
+
+
+- copy the "FileDesigns" folder.
+- paste in **OneCommander"folder"\Resources** with replace.
 
 
 
