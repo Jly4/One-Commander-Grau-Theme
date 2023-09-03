@@ -52,6 +52,6 @@ New:
 
 ## 📩 License
 
-Copyright © 2021 [Jly4](https://github.com/Jly4)<br />
+Copyright © 2023 [Jly4](https://github.com/Jly4)<br />
 This project is licensed under the [MIT](https://github.com/Abod1960/One-Commander-Dev-Theme/blob/main/LICENSE) license.
 
